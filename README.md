@@ -22,7 +22,7 @@ FoodCal is an innovative chat application that helps users discover recipes base
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/foodcal.git
+git clone https://github.com/20125A0511/foodcal.git
 cd foodcal
 ```
 
